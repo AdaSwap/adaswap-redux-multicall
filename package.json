@@ -1,6 +1,6 @@
 {
   "name": "@adaswap/redux-multicall",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "🛠 A React + Redux lib for fetching and caching chain state via the MultiCall contract",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
